@@ -1,4 +1,4 @@
-# password-gen
+Password Generator
 Enter the length of password and for which website you want to create your password. This will give you a strong password and save your passwords to a Text file.
 
 Open CMD, in your file destination.
